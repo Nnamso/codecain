@@ -25,6 +25,7 @@
 1. "Professional Node.js" by Teixeira
 2. ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/) - available online (free) & as a paperback
 3. "Mastering JavaScript" by Ved Antani
+4. ["Personal Blog" by Nnamso Anthony ](https://github.com/Nnamso)
 
 ## Contents
 * [Rules](rules.md)
